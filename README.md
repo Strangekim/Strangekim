@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Yeonho
 
-<!--
-**Strangekim/Strangekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Building systems where creativity meets structure.
+🎯 Backend Developer exploring scalable, design-driven products.
 
-Here are some ideas to get you started:
+⚽ Football Square
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A competitive community for EA FC players.
+Team management · Match records · Ranking · Dispute system
+Node.js · PostgreSQL · Redis · Docker
+
+🧠 Comment Image
+
+Collaboration through visual conversation.
+Image annotations · Threaded comments · Realtime sync
+Next.js · TypeScript · S3 · WebSocket
+
+🛠 Stack Highlights
+
+
+
+
+
+
+
+
+
+
+🌱 Always learning,
+✨ Always building.
