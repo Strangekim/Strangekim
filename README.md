@@ -2,10 +2,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=StrangeKim&fontSize=42&fontAlignY=40)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=700&center=true&vCenter=true&width=560&lines=💡%20Design-driven%20Backend%20Engineer;🚀%20Building%20‘Football%20Square’%20&%20‘Comment%20Image’" />
-</p>
-
-<p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=fff">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff">
